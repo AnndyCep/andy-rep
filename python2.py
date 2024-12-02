@@ -4,3 +4,5 @@ def funcionSuma(*num):
     """Esto retorna una suna de todos los numeros pasados en la funncion"""
     return sum(num)
 
+print("Eliminado")
+

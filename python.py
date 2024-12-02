@@ -3,3 +3,7 @@ def suma(*num):
     
 print(suma(1,2,4,10,25,5));
 """Se eliminaron unos comentarios y unas lineas que se imprimian"""
+
+valor = int(input("Ingrese un valor"))
+valor += valor;
+print(valor)
