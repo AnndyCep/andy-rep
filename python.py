@@ -4,7 +4,7 @@ def suma(*num):
 print(suma(1,2,4,10,25,5));
 """Se eliminaron unos comentarios y unas lineas que se imprimian"""
 
-print("Hacer una tonteria, intenta crear un error en el pull")
+print("Ya Arpendi a trabajar con git")
 
 
 valor = int(input("Ingrese un valor"))
